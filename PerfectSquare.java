@@ -11,7 +11,7 @@ public class PerfectSquare {
 			//check the number starting from 1
 			//updated the operators
 			for (int i = 1; i <= num; i++) {
-
+      //Changed the if condition
 				if (i * i == num) {
 					return true;
 				}
